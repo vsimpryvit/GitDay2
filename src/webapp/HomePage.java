@@ -6,4 +6,6 @@ public class HomePage {
 
     //nav manu
 
+    //more things are added
+
 }
