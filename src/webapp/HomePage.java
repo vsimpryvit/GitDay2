@@ -8,4 +8,14 @@ public class HomePage {
 
     //more things are added
 
+
+    //adding some more changes
+
+    //and more
+
+
+    ///this lady outside yelling
+
+    //footer
+
 }
